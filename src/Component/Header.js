@@ -43,12 +43,6 @@ export default function Header() {
           <Link to="/">
             <span>HOME</span>
           </Link>
-          <Link to="/">
-            <span>SERVICE</span>
-          </Link>
-          <Link to="/">
-            <span>PRICING</span>
-          </Link>
           <Link to="/contact">
             <span>CONTACT</span>
           </Link>
